@@ -1,0 +1,15 @@
+UnitedHealthcare Individual & Family Plans (Marketplace)
+
+October 2, 2026
+
+Patient name: Priya Shah
+Member ID: 987654321
+Claim no: UHC-55501-ZQ
+Provider: Hopkins Pulmonary Associates
+Description of service: Biologic asthma therapy (dupilumab)
+Date of service: September 10, 2026
+Total charges: $3,980.00
+Patient responsibility: $3,980.00
+
+Why your claim was denied: The service is not medically necessary based on our clinical criteria.
+Step therapy requirements were not met.

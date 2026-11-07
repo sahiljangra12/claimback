@@ -1,0 +1,9 @@
+streamlit>=1.36
+pypdf>=4.0
+pytesseract>=0.3.10
+pillow>=10.0
+pypdfium2>=4.0
+# optional: AI polishing of letters
+anthropic>=0.40
+# dev
+pytest>=8.0

@@ -1,0 +1,21 @@
+Aetna
+Member Services | P.O. Box 14463, Lexington, KY 40512
+
+Date of this notice: 09/15/2026
+
+NOTICE OF ADVERSE BENEFIT DETERMINATION
+
+Member name: Jordan Rivera
+Member ID: W123456789
+Group: Employer Group Health Plan (ERISA)
+Claim number: 2026091500123
+Provider: Baltimore Imaging Center
+Service: MRI lumbar spine without contrast
+Date of service: 08/28/2026
+
+Amount billed: $2,450.00
+Amount denied: $2,450.00
+
+Reason for denial: Prior authorization was not obtained for this service as required by your plan. CARC 197.
+
+You have the right to appeal this decision within 180 days of receiving this notice.
