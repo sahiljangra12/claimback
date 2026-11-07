@@ -4,6 +4,10 @@
 
 Upload a denial letter or Explanation of Benefits (PDF, photo or text). ClaimBack reads it, explains in plain English why the claim was denied, tells you your appeal deadline, lists the evidence that usually wins, and drafts an appeal letter you can edit and send.
 
+**Try it:** https://claude.ai/artifact/BeuTGbGHBb1DgPkBJvrwLr
+
+There are two versions: a browser app in `web/` (everything runs on the user's device, no server) and a Python/Streamlit app (`app.py`).
+
 ## Why this exists
 
 - Insurers on HealthCare.gov denied **19% of in-network claims** in 2024 (37% out-of-network) — KFF analysis of CMS transparency data.
@@ -22,6 +26,10 @@ Upload a denial letter or Explanation of Benefits (PDF, photo or text). ClaimBac
 | App | Streamlit UI where the user checks and corrects every field | `app.py` |
 
 ## Run it
+
+Browser version: open `web/index.html`, or serve the folder (`python3 -m http.server -d web`). Tests: `node web/test.js`. `netlify.toml` publishes `web/` as a static site.
+
+Python version:
 
 ```bash
 pip install -r requirements.txt
